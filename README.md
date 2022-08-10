@@ -23,7 +23,7 @@
 
 <br>
 
-# Who am I?
+<h1 align=center>🤔 Who are you?</h1>
 
 ### Arda Seyhan Temli
 
@@ -51,7 +51,7 @@ Yeah, Can you talk about real life?
 - Sure, I do bodybuilding in my free time, I'm currently studying at high school and preparing for university. So I'm not active at this time. I love watching Formula 1 as you can see in my Twitter. Also don't forget to follow me on Twitter, I'm really active in there. Lewis Hamilton is my favorite F1 driver. Yeah, It's pretty much what I do in real life.
 <br>
 
-## ⚡ Technologies
+<h1 align=center>⚡ Technologies</h1>
 
 ### Language :
 
