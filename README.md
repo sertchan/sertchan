@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-<h4 align="center">👀 Visitor's count </h4>
+<h4 align="center">👀 Visitor count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{sertchan}/count.svg" alt="sertchan :: Visitor's Count" /></p>
 </p>
 
@@ -27,7 +27,7 @@
 
 ### Arda Seyhan Temli
 
-As you can see I am a full-stack software developer and Linux specialist, former Linux elitist. I'm very interested in system development with Rust at the moment. I love embedded systems (I've never worked with them :D).
+As you can see I am a full-stack software developer and Linux specialist, former Linux elitist. I'm very interested in system development with Rust at the moment. I love embedded systems. (I've never worked with them :D)
 
 ### Let's do some Questions & Answer here:
 
@@ -35,7 +35,7 @@ How much experience do you have?
 
 - I'm in web development for 2 years. We can't see many projects on my GitHub because I wasn't interested in Git and open source projects.
 
-Which pronunciation do you prefer?
+Which pronouns do you prefer?
 
 - Any.
 
@@ -44,11 +44,11 @@ Where do you live?
 - I currently live in Ankara/Turkey.
 
 What about games?
-- I enjoyed playing Osu 1 year ago for 2 years. (I was 5 digits.) Also, I really enjoy playing Celeste and Terraria like most pixel design games.
+- I enjoyed playing Osu 1 year ago for 2 years. (I was 5 digits) Also, I really enjoy playing Celeste and Terraria like most pixel design games.
 
 Yeah, Can you talk about real life?
 
-- Sure, I do bodybuilding in my free time, I'm currently studying at high school and preparing for university. So I'm not active at this time. I love watching Formula 1 as you can see in my Twitter. (Don't forget to follow me on Twitter, I'm really active in there.) Lewis Hamilton is my favorite F1 driver. Yeah, It's pretty much what I do in real life.
+- Sure, I do bodybuilding in my free time, I'm currently studying at high school and preparing for university. So I'm not active at this time. I love watching Formula 1 as you can see in my Twitter. Also don't forget to follow me on Twitter, I'm really active in there. Lewis Hamilton is my favorite F1 driver. Yeah, It's pretty much what I do in real life.
 <br>
 
 ## ⚡ Technologies
