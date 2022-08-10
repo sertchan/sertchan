@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, Seyhan here! </h1>
 <div align="center">
- <img src="https://cdn.discordapp.com/attachments/938931653848469534/992378044142600263/IMG_4699.jpg"/>
+ <img src="https://cdn.discordapp.com/attachments/938931653848469534/992378044142600263/IMG_4699.jpg" style='width: 95%'/>
 </div>
 
 <p align="center">
@@ -29,18 +29,28 @@
 
 As you can see I am a full-stack software developer and Linux specialist former Linux elitist. I'm very interested in system development at the moment with Rust. I love embedded systems.
 
-#### Lets do some Question & Answer here:
+### Let's do some Questions & Answer here:
 
-How much experience do you have? I'm in web development for 2 years. We can't see many projects on my GitHub because I wasn't interested with git and open source projects.
+How much experience do you have?
 
-Which pronunciation do you prefer? Any 
+- I'm in web development for 2 years. We can't see many projects on my GitHub because I wasn't interested in Git and open source projects.
 
-Where do you live? I currently live in Ankara/Turkey.
+Which pronunciation do you prefer?
 
-What about games? I enjoyed playing osu like 1 year ago. Also, I very much enjoy playing celeste and terraria like most pixel design games.
+- Any.
 
-Yeah, Can you talk about real life? Sure, I do bodybuilding in my free time, I'm currently studying at high school and preparing for university. So I'm not active at this time.
-<br>
+Where do you live?
+
+- I currently live in Ankara/Turkey.
+
+What about games?
+
+- I enjoyed playing Osu like 1 year ago. Also, I very much enjoy playing celeste and Terraria like most pixel design games.
+
+Yeah, Can you talk about real life?
+
+- Sure, I do bodybuilding in my free time, I'm currently studying at high school and preparing for university. So I'm not active at this time. I love watching Formula 1. Lewis Hamilton is my favorite driver (Chill bro respect to preferences). Yeah, It's pretty much what I do in real life.
+  <br>
 
 ## ⚡ Technologies
 
