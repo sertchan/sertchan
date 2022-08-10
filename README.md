@@ -27,7 +27,7 @@
 
 ### Arda Seyhan Temli
 
-As you can see I am a full-stack software developer and Linux specialist former Linux elitist. I'm very interested in system development at the moment with Rust. I love embedded systems.
+As you can see I am a full-stack software developer and Linux specialist, former Linux elitist. I'm very interested in system development with Rust at the moment. I love embedded systems (I've never worked with them :D).
 
 ### Let's do some Questions & Answer here:
 
@@ -44,13 +44,12 @@ Where do you live?
 - I currently live in Ankara/Turkey.
 
 What about games?
-
-- I enjoyed playing Osu like 1 year ago (I was 5 digit). Also, I very much enjoy playing Celeste and Terraria like most pixel design games.
+- I enjoyed playing Osu 1 year ago for 2 years. (I was 5 digits.) Also, I really enjoy playing Celeste and Terraria like most pixel design games.
 
 Yeah, Can you talk about real life?
 
-- Sure, I do bodybuilding in my free time, I'm currently studying at high school and preparing for university. So I'm not active at this time. I love watching Formula 1. Lewis Hamilton is my favorite driver (Chill bro respect to preferences). Yeah, It's pretty much what I do in real life.
-  <br>
+- Sure, I do bodybuilding in my free time, I'm currently studying at high school and preparing for university. So I'm not active at this time. I love watching Formula 1 as you can see in my Twitter. (Don't forget to follow me on Twitter, I'm really active in there.) Lewis Hamilton is my favorite F1 driver. Yeah, It's pretty much what I do in real life.
+<br>
 
 ## ⚡ Technologies
 
