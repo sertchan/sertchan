@@ -25,7 +25,7 @@
 
 # Who am I?
 
-### Here is Arda Seyhan Temli
+### Arda Seyhan Temli
 
 As you can see I am a full-stack software developer and Linux specialist former Linux elitist. I'm very interested in system development at the moment with Rust. I love embedded systems.
 
@@ -45,7 +45,7 @@ Where do you live?
 
 What about games?
 
-- I enjoyed playing Osu like 1 year ago. Also, I very much enjoy playing celeste and Terraria like most pixel design games.
+- I enjoyed playing Osu like 1 year ago (I was 5 digit). Also, I very much enjoy playing Celeste and Terraria like most pixel design games.
 
 Yeah, Can you talk about real life?
 
