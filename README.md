@@ -1,6 +1,6 @@
-<h1 align="center"> 👋 Yoo, seyhan here! </h1>
+<h1 align="center"> 👋 Hi, Seyhan here! </h1>
 <div align="center">
- <img src="https://cdn.discordapp.com/attachments/938931634265280543/991283146379243540/a_bf6ae8495f2b269f0ef90547f2d13bd5.gif"/>
+ <img src="https://cdn.discordapp.com/attachments/938931653848469534/992378044142600263/IMG_4699.jpg"/>
 </div>
 
 <p align="center">
@@ -23,25 +23,23 @@
 
 <br>
 
-# Who am i?
+# Who am I?
 
 ### Here is Arda Seyhan Temli
 
-As you can see i am fullstack software developer and linux specialist former linux elitist. I'm very intrested with system developing at the moment with Rust. I love embeded systems.
+As you can see I am a full-stack software developer and Linux specialist former Linux elitist. I'm very interested in system development at the moment with Rust. I love embedded systems.
 
 #### Lets do some Question & Answer here:
 
-How old are you? Im 16 at the moment.
+How much experience do you have? I'm in web development for 2 years. We can't see many projects on my GitHub because I wasn't interested with git and open source projects.
 
-Which pronunce do you prefer? He/Him
+Which pronunciation do you prefer? Any 
 
-Where do you life? I currently live at Ankara/Turkey.
+Where do you live? I currently live in Ankara/Turkey.
 
-Why you gived fucking Snapchat at the links? Because of my standarts. LMAO.
+What about games? I enjoyed playing osu like 1 year ago. Also, I very much enjoy playing celeste and terraria like most pixel design games.
 
-What about games? I was really enjoy to playing osu like 1 year ago. Also i very enjoy to play celeste and terraria like most of pixel design games.
-
-Yeah, Can you talk about real life?. Sure, i do bodybuilding on my free times, im currenty studying at the highschool and preparing to universty. So im not active in this times.
+Yeah, Can you talk about real life? Sure, I do bodybuilding in my free time, I'm currently studying at high school and preparing for university. So I'm not active at this time.
 <br>
 
 ## ⚡ Technologies
