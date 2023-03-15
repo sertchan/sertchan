@@ -14,9 +14,7 @@
 <a href="https://twitter.com/shhsmn"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.buymeacoffee.com/sertchan"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffe" /></a>&nbsp;
 <a href="https://www.reddit.com/user/shhsmm/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>&nbsp;
-<a href="https://www.snapchat.com/add/ardaseyhan35"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat" /></a>&nbsp;
-<a href="https://instagram.com/ardaseyhan.m"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://sptfy.com/6MvL"><img src="https://img.shields.io/badge/spotify-1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>&nbsp;
+<a href="https://open.spotify.com/user/6byx8g9mgq2tt274rxu8g8wyr?si=67023150857c4339"><img src="https://img.shields.io/badge/spotify-1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>&nbsp;
 </>
 <a href="mailto:ardaseyhantemli1@gmail.com?subject=Hello%20seyhan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
@@ -48,7 +46,7 @@ What about games?
 
 Yeah, Can you talk about real life?
 
-- Sure, I do bodybuilding in my free time, I'm currently studying at high school and preparing for university. So I'm not active at this time. I love watching Formula 1 as you can see in my Twitter. Also don't forget to follow me on Twitter, I'm really active in there. Lewis Hamilton is my favorite F1 driver. Yeah, It's pretty much what I do in real life.
+- I dont think so.
 <br>
 
 <h1 align=center>⚡ Technologies</h1>
