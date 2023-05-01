@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, Seyhan here! </h1>
+<h1 align="center"> Hi, Seyhan here! </h1>
 <div align="center">
  <img src="https://cdn.discordapp.com/attachments/938931653848469534/992378044142600263/IMG_4699.jpg" style='width: 95%'/>
 </div>
@@ -21,7 +21,7 @@
 
 <br>
 
-<h1 align=center>🤔 Who are you?</h1>
+<h1 align=center>Who are you?</h1>
 
 ### Arda Seyhan Temli
 
