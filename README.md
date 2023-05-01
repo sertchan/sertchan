@@ -25,28 +25,25 @@
 
 ### Arda Seyhan Temli
 
-As you can see I am a full-stack software developer and Linux specialist, former Linux elitist. I'm very interested in system development with Rust at the moment. I love embedded systems. (I've never worked with them :D)
+As you can see, I am a full-stack software developer and Linux specialist, and a former Linux elitist. Currently, I am very interested in system development using Rust. I love embedded systems, although I have never had the opportunity to work with them.
 
 ### Let's do some Questions & Answer here:
 
-How much experience do you have?
+How much experience do you have in web development?
 
-- I'm in web development for 2 years. We can't see many projects on my GitHub because I wasn't interested in Git and open source projects.
+- I have been working in web development for two years. Although my GitHub profile does not showcase many projects, it's only because I did not take an interest in Git and open source projects until recently.
 
 Which pronouns do you prefer?
 
-- Any.
+- I don't have a preference for pronouns.
 
-Where do you live?
+Where are you located?
 
-- I currently live in Ankara/Turkey.
+- I currently live in Ankara, Turkey.
 
-What about games?
-- I enjoyed playing Osu 1 year ago for 2 years. (I was 5 digits) Also, I really enjoy playing Celeste and Terraria like most pixel design games.
+What kind of games do you enjoy playing?
+- In 2020, I started playing Osu and played it for two years, achieving a 5-digit ranking. I also enjoy playing pixel design games like Celeste and Terraria.
 
-Yeah, Can you talk about real life?
-
-- I dont think so.
 <br>
 
 <h1 align=center>⚡ Technologies</h1>
