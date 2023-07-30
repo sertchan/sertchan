@@ -92,13 +92,6 @@ What kind of games do you enjoy playing?
 ![Windows](https://img.shields.io/badge/Windows-red.svg?logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ArchLinux-blue.svg?logo=archlinux&logoColor=white)
 
-<br>
-
 <div align="center">
  <img src="https://cdn.discordapp.com/attachments/938931634265280543/991289270889349140/d54205e179fd5c562f2a61a4dee25f0a.jpg" widht=350 />
 </div>
-
-<h1 align="center">GitHub Stats <h1>
-   <br>
- <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sertchan&theme=onedark">
-<div>
