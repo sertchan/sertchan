@@ -23,7 +23,7 @@
 
 <h1 align=center>Who are you?</h1>
 
-### Arda Seyhan Temli
+### Seyhan
 
 As you can see, I am a full-stack software developer and Linux specialist, and a former Linux elitist. Currently, I am very interested in system development using Rust. I love embedded systems, although I have never had the opportunity to work with them.
 
