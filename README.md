@@ -37,10 +37,6 @@ Which pronouns do you prefer?
 
 - I don't have a preference for pronouns.
 
-Where are you located?
-
-- I currently live in Ankara, Turkey.
-
 What kind of games do you enjoy playing?
 - In 2020, I started playing Osu and played it for two years, achieving a 5-digit ranking. I also enjoy playing pixel design games like Celeste and Terraria.
 
