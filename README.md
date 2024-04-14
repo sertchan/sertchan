@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, Seyhan here! </h1>
 <div align="center">
- <img src="https://i.ibb.co/mTf4YkJ/114710157-p0.jpg" style='width: 95%'/>
+ <img src="https://i.imgur.com/E57Y7HK.jpeg" style='width: 95%'/>
 </div>
 
 <p align="center">
