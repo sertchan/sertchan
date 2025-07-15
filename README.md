@@ -6,18 +6,6 @@
 <p align="center">
 <h4 align="center">👀 Visitor count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{sertchan}/count.svg" alt="sertchan :: Visitor's Count" /></p>
-</p>
-
-<p align="center">
-<br>
-</a>&nbsp;
-<a href="https://www.buymeacoffee.com/sertchan"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffe" /></a>&nbsp;
-<a href="https://www.reddit.com/user/shhsmm/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>&nbsp;
-<a href="https://open.spotify.com/user/6byx8g9mgq2tt274rxu8g8wyr?si=67023150857c4339"><img src="https://img.shields.io/badge/spotify-1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>&nbsp;
-</>
-<a href="mailto:ardaseyhantemli1@gmail.com?subject=Hello%20seyhan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
 <br>
 
 <h1 align=center>Who are you?</h1>
