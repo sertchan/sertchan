@@ -3,11 +3,6 @@
  <img src="https://i.imgur.com/E57Y7HK.jpeg" style='width: 95%'/>
 </div>
 
-<p align="center">
-<h4 align="center">👀 Visitor count</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{sertchan}/count.svg" alt="sertchan :: Visitor's Count" /></p>
-<br>
-
 <h1 align=center>Who are you?</h1>
 
 ### Seyhan
